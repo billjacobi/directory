@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T23:28:30.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.6.5" etag="rjvM6eNeITW97JNGAs5v" type="github"><diagram id="_3ExLBju8wWPZAtR7ZiH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-30T23:35:03.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="0geL7fnS-bFGUBYC0DIS" version="13.6.5" type="github">
+  <diagram id="_3ExLBju8wWPZAtR7ZiH" name="Page-1">
+    <mxGraphModel dx="1298" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-1" value="&#xa;&lt;span id=&quot;CidrBlock&quot; class=&quot;&quot;&gt;10.1.50.0/24&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-2" value="&#xa;&lt;span id=&quot;CidrBlock&quot; class=&quot;&quot;&gt;10.1.60.0/24&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-3" value="&#xa;&lt;span id=&quot;CidrBlock&quot; class=&quot;&quot;&gt;10.1.60.0/24&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="550" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-4" value="&#xa;&lt;span id=&quot;CidrBlock&quot; class=&quot;&quot;&gt;10.1.10.0/24&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-5" value="&#xa;&lt;span id=&quot;CidrBlock&quot; class=&quot;&quot;&gt;10.1.20.0/24&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-6" value="&#xa;&lt;span id=&quot;CidrBlock&quot; class=&quot;&quot;&gt;10.1.30.0/24&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-7" value="Private Subnet A" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="190" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-8" value="Private Subnet B" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-9" value="Private Subnet C" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="600" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
