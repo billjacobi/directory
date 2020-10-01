@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T23:41:01.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="SG0FceMYS14ywKm4SCrb" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T01:38:45.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="pyp9Y2dCb54-0lvn6zVn" version="13.6.5" type="github">
   <diagram id="_3ExLBju8wWPZAtR7ZiH" name="Page-1">
-    <mxGraphModel dx="1298" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,15 @@
         </mxCell>
         <mxCell id="O6tpJL-ifdws2r6rpKGP-18" value="dc2&lt;br&gt;10.1.60.253" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="535" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-19" value="dc1&lt;br&gt;10.1.50.119" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-21" value="dc2&lt;br&gt;10.1.50.106" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="718" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O6tpJL-ifdws2r6rpKGP-22" value="rdp-bastian&lt;br&gt;&lt;span style=&quot;clip: rect(0px , 0px , 0px , 0px) ; font: &amp;#34;unset&amp;#34; ; top: 0px&quot;&gt;54.198.115.44&lt;br&gt;&lt;span style=&quot;clip: rect(0px , 0px , 0px , 0px) ; font: &amp;#34;unset&amp;#34; ; top: 0px&quot;&gt;10.1.10.59&lt;/span&gt;&lt;span style=&quot;clip: rect(0px , 0px , 0px , 0px) ; font: &amp;#34;unset&amp;#34; ; top: 0px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
